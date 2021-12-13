@@ -36,7 +36,7 @@ under the License.
 
 	<!-- Allow users to pass custom jcuda versions -->
 	<properties>
-		<jcuda.version>10.0.0</jcuda.version>
+		<jcuda.version>11.4.1</jcuda.version>
 	</properties>
 
 	<dependencies>
